@@ -1,0 +1,75 @@
+User: hello
+Bot: Hello!
+
+User: hii
+Bot: Hello!
+
+User: what is your name
+Bot: I'm your chatbot
+
+User: can you help me in studys
+Bot: Sure! Tell me what you need help with
+
+User: naku english cheppu
+Bot: Hello! How can I help you today?
+
+User: sahayam cheyagalava
+Bot: Sure, ask me anything!
+
+User: tell me a jock
+Bot: Why did the robot go to school? Because it had a byte to learn!
+
+User: hello
+Bot: Hello! How can I help you today?
+
+User: hello
+Bot: Hello! How can I help you today?
+
+User: hello
+Bot: Hello! How can I help you today?
+
+User: hii
+Bot: Hello! How can I help you today?
+
+User: good morning
+Bot: Hello! How can I help you today?
+
+User: good morning
+Bot: Hello! How can I help you today?
+
+User: hello
+Bot: Hello! How can I help you today?
+
+User: good night
+Bot: Hello! How can I help you today?
+
+User: good bye
+Bot: Hello! How can I help you today?
+
+User: good morning
+Bot: Hello! How can I help you today?
+
+User: developer
+Bot: Hello! How can I help you today?
+
+User: do you speak telugu
+Bot: I understand English best. I'm learning other languages too!
+
+User: iam bords
+Bot: Hello! How can I help you today?
+
+User: good morning
+Bot: Hello! How can I help you today?
+
+User: hello
+Bot: Hello! How can I help you today?
+
+User: bye
+Bot: Goodbye!
+
+User: hye
+Bot: Hello! How can I help you today?
+
+User: good night
+Bot: Hello! How can I help you today?
+
